@@ -7,27 +7,12 @@ aqui aumentar aqui*/
 html,body{
     height:100%
 }
-.artigo{
-    width:4%;
-    background-color:rgb(199, 111, 111);
-    text-align:center;
+.lista{
+    list-style-position:inside;
+    list-style-type:decimal;
+
 }
-.artigo h1{
-    color:rgb(18, 20, 22);
-    font-size:100%;
-    font-family:tahoma;
-    font-style:normal;
-    font-weight:bold;
-    /*font-variant:small-caps;*/
-}
-.artigo p{
-    color:#b4b4b4;
-    font-size:17px;
-    font-family:"tahoma"
-    font-style:normal;
-    font-weight:bold;
-    margin-top:12px;
-    line-height:40px;
-    text-align:left;
+
+.li{
     
 }
