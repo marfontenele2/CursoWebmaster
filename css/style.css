@@ -7,12 +7,18 @@ aqui aumentar aqui*/
 html,body{
     height:100%
 }
-.lista{
+.lista, .lista2{
     list-style-position:inside;
     list-style-type:decimal;
+    margin-left:20px;
 
 }
 
-.li{
-    
+.lista li.item3, .lista2 li.item3{
+    font-weight:bold;
+}
+.lista li, .lista2 li{
+    font-size:18px;
+    color:#4b4b;
+    margin-top:10px;
 }
