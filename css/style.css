@@ -1,24 +1,31 @@
+/*html,body{
+    height:100%;
+}
+.um{
+    width: 500px;
+    height: 500px;
+    background: red;
+}*/
 *{
-    margin:0;
-    padding:0;
+	margin: 0;
+	padding: 0;
 }
-/*Meu comentário 
-aqui aumentar aqui*/
+
+/*
+*
+*
+Estilo para o conteúdo do nosso site
+*
+*
+*/
+
 html,body{
-    height:100%
-}
-.lista, .lista2{
-    list-style-position:inside;
-    list-style-type:decimal;
-    margin-left:20px;
-
+	height: 100%; 
 }
 
-.lista li.item3, .lista2 li.item3{
-    font-weight:bold;
-}
-.lista li, .lista2 li{
-    font-size:18px;
-    color:#4b4b;
-    margin-top:10px;
+
+.um{
+	width: 500px;
+	height: 800px;
+	background: red;
 }
